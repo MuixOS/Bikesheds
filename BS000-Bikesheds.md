@@ -1,6 +1,6 @@
 The following document serves as a template for Bikeshed proposal documents. Replace all of the placeholder text with your own. Also, delete this text at the top.
 Note: This document takes a great deal of inspiration from RFC0000 of QuiltMC, which can be viewed at https://github.com/QuiltMC/rfcs/blob/main/0000-template.md.
-# BS000: Template
+# BS000: Bikesheds
 ## Summary and Motivation
 \[Insert a summary here. It should be no more than one paragraph, but communicate the general idea of the proposal. Then, with another paragraph, explain the reasoning for why this is needed.]
 ## Design
